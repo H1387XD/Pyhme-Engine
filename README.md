@@ -67,7 +67,9 @@ def LeftClicked():
 window.RightClick() # - May have an entity or not
 def RightClicked():
   print("RIGHT CLICKED!")
-
+```
+### HOW TO MAKE ENTITIES!
+```py
 #You can add entities / shapes
 Square=window.Quad("50x50", [0,0], "#FF00FF") #Creates a quadrilateral with size 50px and position at 0,0 with the color pink (#FF00FF)
 window.append(Square) #Shows the square
