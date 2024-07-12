@@ -2,7 +2,7 @@
 A Python Pygame Wrapper!
 
 ## DISCLAIMER
-### PYHME ENGINE IS NOT INSTALLABLE USING PIP | PLEASE NOTE THAT THIS IS A WORK IN PROGRESS MANY THINGS MAY CHANGE!
+### PLEASE NOTE THAT THIS IS A WORK IN PROGRESS MANY THINGS MAY CHANGE!
 
 ## LATEST CHANGE!
 ### RELEASE! [1.0]
@@ -19,6 +19,13 @@ A Python Pygame Wrapper!
 -  Quads / Quadrilaterals
 
 ## TUTORIAL
+### HOW TO INSTALL
+You can install Pyhme by doing the command in the terminal
+
+```bash
+pip install https://github.com/H1387XD/Pyhme-Engine/raw/main/dist/Pyhme-0.1.0-py3-none-any.whl
+```
+
 ### HOW TO USE:
 
 You can initialize a new window by doing the following:
