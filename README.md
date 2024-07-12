@@ -1,6 +1,9 @@
 # Pyhme-Engine
 A Python Pygame Wrapper!
 
+## DISCLAIMER
+### PYHME ENGINE IS NOT INSTALLABLE USING PIP | PLEASE NOTE THAT THIS IS A WORK IN PROGRESS MANY THINGS MAY CHANGE!
+
 ## LATEST CHANGE!
 ### RELEASE! [1.0]
 
@@ -38,7 +41,7 @@ window.Name = "Hello World"
 #Letter should be lowercase or else it doesnt detect it!
 @window.KeyDown("b") #CREATES A NEW EVENT WHICH EXECUTES A FUNCTION WHEN THE LETTER B IS PRESSED!
 def b_is_pressed(): #MAIN FUNCTION
-  print("b is pressed)
+  print("b is pressed")
 
 window.run()
 ```
