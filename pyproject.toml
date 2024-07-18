@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "PyhmeEngine_H1387XD"
+version = "0.1.0"
+authors = [
+  { name="H1387XD", email="h1387.dion@gmail.com" },
+]
+description = "A Pygame Wrapper!"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/H1387XD/Pyhme-Engine"
+Issues = "https://github.com/H1387XD/Pyhme-Engine/issues"
